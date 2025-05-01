@@ -434,6 +434,16 @@ header .navbar a:hover {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   padding: 10px;
 }
+.p-box a{
+  background-color: #008170;
+  margin-left: 50px;
+  padding: 5px;
+  border-radius: 10%;
+  text-decoration: none;
+  color: var(--text-color);
+  
+  
+}
 .navigation-buttons {
   position: absolute;
   top: 50%;
